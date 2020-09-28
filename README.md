@@ -1,2 +1,0 @@
-# BodegaT
-TP
